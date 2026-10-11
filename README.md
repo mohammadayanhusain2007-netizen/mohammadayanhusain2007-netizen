@@ -1,272 +1,117 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+👋 Hi, I'm Mohammad Ayan Husain
 
-<div align="center">
+💻 Software Developer | 🚀 Technology Enthusiast | 🏢 Co-Founder & Director
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:7c3aed&height=220&section=header&text=MOHAMMAD%20AYAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16&animation=fadeIn"
-  width="100%"
-  alt="Mohammad Ayan Developer Banner"
-/>
+Co-Founder & Director at Mira Future Tech Vision Pvt. Ltd.
 
-<br/>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Building+Real-World+Applications;Exploring+AI+%26+Machine+Learning;Learn.+Build.+Innovate."
-    alt="Animated developer introduction"
-  />
-</a>
-
-<br/>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore projects"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=followers">
-  <img
-    src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-0891B2?style=for-the-badge&logo=github&logoColor=white"
-    alt="Follow on GitHub"
-  />
-</a>
-
-<br/><br/>
-
-<div align="center">
-
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-&nbsp;
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=followers">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-</a>
-
-</div>
-
----
-
-</div>
-
----
-
-<!-- ==================== ABOUT ME ==================== -->
-
-## 👨‍💻 About Me
-
-Hi! I'm **Mohammad Ayan Husain**, a developer interested in building practical software applications and exploring emerging technologies.
-
-- 💻 Interested in Python, Java, and web development.
-- 🧠 Exploring artificial intelligence and machine learning.
-- 📊 Learning data analysis and problem-solving.
-- 🚀 Building projects that address real-world challenges.
-- 🤝 Open to collaboration, internships, and open-source learning.
-
----
-
-<!-- ==================== TECHNOLOGY STACK ==================== -->
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-### Programming Languages
-
-<img
-  src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark"
-  alt="Programming languages"
-/>
-
-### Frameworks & Libraries
-
-<img
-  src="https://skillicons.dev/icons?i=django,flask,react,nodejs,flutter&theme=dark"
-  alt="Frameworks and libraries"
-/>
-
-### Databases & Developer Tools
-
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark"
-  alt="Databases and development tools"
-/>
-
-</div>
-
----
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 NeuroGuide AI</h3>
-
-<p>
-AI-focused brain MRI analysis and visualization project
-exploring brain-structure segmentation and morphometry.
-</p>
-
-<p>
-<b>Focus:</b> Medical Imaging · AI · Visualization
-</p>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen/Neuroguide-ai">
-  <img
-    src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-    alt="View NeuroGuide AI"
-  />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎓 SarthiX</h3>
-
-<p>
-An educational platform project designed to support
-school and college students through digital learning.
-</p>
-
-<p>
-<b>Focus:</b> Education · Application Development
-</p>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/EXPLORE_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore SarthiX repositories"
-  />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>👕 Clothing Exchange</h3>
-
-<p>
-A marketplace project focused on clothing exchange,
-reuse, and a user-oriented web experience.
-</p>
-
-<p>
-<b>Focus:</b> Web Development · Marketplace
-</p>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen/Clothing-Exchange-Swap-Marketplace">
-  <img
-    src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Clothing Exchange"
-  />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌟 More Projects</h3>
-
-<p>
-Explore my other repositories, experiments, and
-software development projects.
-</p>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="All repositories"
-  />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/mohammadayanhusain2007-netizen">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=mohammadayanhusain2007-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/mohammadayanhusain2007-netizen">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadayanhusain2007-netizen&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-  />
-</a>
-
-<br/><br/>
-</div>
-
-<!-- ==================== DEVELOPMENT GOALS ==================== -->
-
-## 🎯 My Development Goals
-
-- [ ] Strengthen Data Structures and Algorithms.
-- [ ] Build complete, well-documented applications.
-- [ ] Improve software engineering practices.
-- [ ] Contribute to open-source projects.
-- [ ] Explore AI and machine learning.
-
----
-
-<!-- ==================== CONTACT ==================== -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/mohammadayanhusain2007-netizen">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://mirafuturetechvision.com/">
-  <img
-    src="https://img.shields.io/badge/Company_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Company website"
-  />
-</a>
-
-</div>
+I am passionate about software development, artificial intelligence, web technologies, and building practical digital solutions. I enjoy learning new technologies, solving problems, and transforming ideas into useful applications.
 
 <p align="center">
-  <i>"Great things are built one meaningful commit at a time."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%7C+Java+%7C+Web+Development;Exploring+AI+%26+Machine+Learning;Building+Ideas+Into+Reality" alt="Animated introduction" />
+</p><p align="center">
+  <a href="https://github.com/mohammadayanhusain2007-netizen">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://mirafuturetechvision.com/">
+    <img src="https://img.shields.io/badge/Company-Mira%20Future%20Tech%20Vision-0A66C2?style=for-the-badge" alt="Company website" />
+  </a>
+</p>---
+
+👨‍💻 About Me
+
+- 🏢 Role: Co-Founder & Director at Mira Future Tech Vision Pvt. Ltd.
+- 💻 Programming: Python, Java, JavaScript, HTML, CSS, and PHP
+- 🌐 Development: Web applications and software solutions
+- 🤖 Interests: Artificial Intelligence and Machine Learning
+- 📊 Data Analytics: Pandas, NumPy, Matplotlib, Excel, and Power BI
+- 🗄️ Databases: MongoDB, MySQL, and SQLite
+- 🧠 Learning: Data Structures, Algorithms, and Software Engineering
+- 🚀 Goal: Build useful technology products that solve real-world problems.
+
+---
+
+🏢 Mira Future Tech Vision Pvt. Ltd.
+
+Co-Founder & Director | Technology & Innovation
+
+At Mira Future Tech Vision Pvt. Ltd., I contribute to technology-focused initiatives and software development projects.
+
+My interests include:
+
+- 🌐 Website and application development
+- 💡 Exploring innovative digital products
+- 🛠️ Technical planning and project development
+- 🤝 Team collaboration and product innovation
+
+🌐 Company Website: https://mirafuturetechvision.com/
+
+---
+
+🛠️ Tech Stack & Tools
+
+💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php" alt="Python, Java, JavaScript, HTML, CSS, PHP" />
+</p>🌐 Web & Application Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,flutter" alt="React, Node.js, Express, Django, Flask, Flutter" />
+</p>🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="MongoDB, MySQL, SQLite" />
+</p>📊 Data Analytics & Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>⚙️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio" alt="Git, GitHub, VS Code, Linux, Android Studio" />
+</p>---
+
+🚀 Featured Projects
+
+🧠 NeuroGuide AI
+
+An AI-focused project exploring brain MRI analysis, brain-structure segmentation, morphometry, and medical image visualization.
+
+🎓 SarthiX
+
+An educational platform concept designed to support digital learning for school and college students.
+
+👕 Clothing Exchange
+
+A web application concept focused on clothing exchange, reuse, and sustainable fashion.
+
+🔎 Explore my repositories:
+https://github.com/mohammadayanhusain2007-netizen?tab=repositories
+
+---
+
+📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadayanhusain2007-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadayanhusain2007-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammadayanhusain2007-netizen&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>---
+
+🎯 My Mission
+
+To combine software engineering, creative thinking, and emerging technologies to build useful digital products, solve real-world challenges, and grow as a technology leader.
+
+Learn continuously. Build responsibly. Innovate meaningfully.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:164e63,100:0f172a&height=120&section=footer"
-  width="100%"
-  alt="Decorative footer"
-/>
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
