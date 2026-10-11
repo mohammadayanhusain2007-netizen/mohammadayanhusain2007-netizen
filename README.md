@@ -1,229 +1,137 @@
 
-<!--
-PREMIUM GITHUB PROFILE README
-Replace YOUR_USERNAME with your exact GitHub username.
-Update project links to your real repositories.
--->
+<!-- ===================================================== -->
+<!-- MOHAMMAD AYAN HUSAIN | GITHUB PROFILE README           -->
+<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
+<!-- ===================================================== -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:123C69,100:00C2FF&text=Mohammad%20Ayan%20Husain&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=TECHNICAL%20LEADERSHIP%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20AI&descAlignY=59&descSize=13" width="100%" alt="Technology-themed profile banner"/>
 
 # Mohammad Ayan Husain
 
-### Co-Founder & Director · Mira Future Tech Vision Pvt. Ltd.
+### Technical Director | Co-Founder | Software & Technology
 
-**Technology | Software Engineering | AI Innovation | Product Development**
+**Technical Director, Co-Founder & Director at Mira Future Tech Vision Pvt Ltd**
 
-Building technology-driven solutions through engineering, strategic thinking, and innovation.
+Building technology-driven solutions through software engineering, full-stack development, AI, and data systems.
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-ayan-husain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00C2FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/mohammad-ayan-husain/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## ◈ Executive Profile
+## ⚡ About Me
 
-I work at the intersection of technology, product development, and innovation, with an interest in building practical digital solutions that address real-world challenges.
+I am a technology professional focused on building practical software solutions, exploring emerging technologies, and turning ideas into useful digital products.
 
-As **Co-Founder & Director at Mira Future Tech Vision Pvt. Ltd.**, I focus on technology initiatives, software development, product ideas, and creating a foundation for scalable digital solutions.
+- **Leadership:** Technical Director, Co-Founder & Director at Mira Future Tech Vision Pvt Ltd.
+- **Software Engineering:** Developing applications and scalable web solutions.
+- **Artificial Intelligence:** Exploring AI-powered systems and intelligent applications.
+- **Full-Stack Development:** Working across frontend, backend, databases, and deployment.
+- **Problem Solving:** Applying technical thinking to real-world challenges.
+- **Innovation:** Interested in healthcare technology, automation, and data-driven systems.
 
-- **Technical focus:** Software engineering, web development, databases, and AI-driven applications.
-- **Product mindset:** Turning ideas into practical, user-focused solutions.
-- **Leadership focus:** Innovation, collaboration, execution, and continuous improvement.
-- **Engineering approach:** Learn by building, validate ideas, and improve through iteration.
+My focus is on combining engineering, innovation, and execution to build meaningful technology.
 
 ---
 
-## ◈ Technical Expertise
+## 🏢 Leadership & Organization
 
 <div align="center">
+
+### Mira Future Tech Vision Pvt Ltd
+
+**Technical Director · Co-Founder · Director**
+
+Focused on technology development, software solutions, and digital innovation.
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java Python JavaScript TypeScript"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp" alt="Programming languages"/>
+</p>
 
-### Web & Application Development
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,flutter,dart&theme=dark" alt="HTML CSS React Vite Flutter Dart"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,flask" alt="Web development technologies"/>
+</p>
 
-### Databases & Development Tools
+### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark" alt="MySQL Git GitHub VS Code Linux"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,flutter" alt="Databases and development tools"/>
+</p>
 
-</div>
+### Areas of Interest
 
-<p align="center">
-  <i>Technical stack represents areas of interest and development; proficiency varies by technology.</i>
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-1572B6?style=flat-square&logo=code&logoColor=white" alt="Full-stack development"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-217346?style=flat-square&logo=googleanalytics&logoColor=white" alt="Data analytics"/>
+  <img src="https://img.shields.io/badge/Database%20Systems-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Database systems"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Deployment-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud and deployment"/>
 </p>
 
 ---
 
-## ◈ Selected Projects & Innovation
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 VaidyaMed-X
-
-**AI & Healthcare Technology**
-
-Exploring how artificial intelligence can support healthcare workflows, medical decision support, and access to healthcare services.
-
-**Focus areas**
-- AI-assisted healthcare concepts
-- Practical healthcare technology
-- Responsible human-in-the-loop AI
-
-<a href="https://vaidyamedx.in/">Project Website ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Sarthi-X
-
-**AI & Application Development**
-
-An application initiative focused on combining software development with AI-oriented capabilities and practical user experiences.
-
-**Focus areas**
-- Application architecture
-- User interface development
-- AI integration concepts
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore repositories ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Engineering
-
-**Websites & Full-Stack Applications**
-
-Developing web projects while exploring frontend engineering, backend integration, and database-driven applications.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Technical Exploration
-
-**Continuous R&D**
-
-Exploring software engineering practices, emerging technologies, AI applications, and implementation approaches through hands-on projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ Leadership & Company
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ROLE-Co--Founder%20%26%20Director-123C69?style=for-the-badge" alt="Co-Founder and Director"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-### Mira Future Tech Vision Pvt. Ltd.
-
-**Building with technology. Leading through innovation.**
-
-Interested in developing useful digital products, exploring new technologies, and translating technical ideas into practical implementations.
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
 
 </div>
 
 ---
 
-## ◈ GitHub Analytics
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation" width="100%"/>
 
 </div>
 
 ---
 
-## ◈ My Contribution Journey
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-*Consistent learning. Meaningful projects. Continuous improvement.*
-
-</div>
+- Building practical full-stack applications.
+- Developing AI-powered software solutions.
+- Improving software architecture and database design.
+- Exploring secure, scalable application development.
+- Turning product ideas into working implementations.
 
 ---
 
-## ◈ Engineering Principles
+## 🤝 Connect With Me
 
 <div align="center">
 
-| Principle | Approach |
-|:--|:--|
-| 🧠 Problem-solving | Understand the problem before choosing a solution |
-| 🏗️ Engineering | Build maintainable, practical applications |
-| 🔐 Reliability | Value security, validation, and quality |
-| 🤝 Collaboration | Learn, communicate, and build together |
-| 🚀 Innovation | Explore emerging technologies with purpose |
+**Interested in technology, product development, and meaningful collaborations?**
 
-</div>
-
----
-
-## ◈ Current Focus
-
-- [ ] Build and deploy complete web applications.
-- [ ] Strengthen software architecture and engineering practices.
-- [ ] Explore practical AI integration.
-- [ ] Improve database design and backend development.
-- [ ] Contribute to collaborative and open-source projects.
-
----
-
-## ◈ Connect With Me
-
-<div align="center">
-
-**Open to meaningful technical collaborations, product discussions, and innovative projects.**
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/mohammad-ayan-husain/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://vaidyamedx.in/">
-  <img src="https://img.shields.io/badge/VaidyaMed--X-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VaidyaMed-X"/>
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
-### Building technology. Creating impact. Moving forward.
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0B1020&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
+<sub>Building with purpose. Engineering with precision. Innovating for impact.</sub>
 
 </div>
