@@ -1,108 +1,178 @@
 
+<!--
+PREMIUM GITHUB PROFILE README
+Replace YOUR_USERNAME with your exact GitHub username.
+Update project links to your real repositories.
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Ayan Husain
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:123C69,100:00C2FF&text=Mohammad%20Ayan%20Husain&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=TECHNICAL%20LEADERSHIP%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20AI&descAlignY=59&descSize=13" width="100%" alt="Technology-themed profile banner"/>
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer | IT Student
+# Mohammad Ayan Husain
 
-### 🚀 Co-Founder & Director
-**Mira Future Tech Vision Pvt. Ltd.**
+### Co-Founder & Director · Mira Future Tech Vision Pvt. Ltd.
 
-Building technology-driven solutions, exploring AI, and turning ideas into reality.
+**Technology | Software Engineering | AI Innovation | Product Development**
+
+Building technology-driven solutions through engineering, strategic thinking, and innovation.
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-ayan-husain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00C2FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ◈ Executive Profile
 
-- 🎓 B.Tech Information Technology student
-- 🏢 Co-Founder & Director at Mira Future Tech Vision Pvt. Ltd.
-- 💻 Interested in software engineering and full-stack development
-- 🤖 Exploring Artificial Intelligence and innovative technology
-- 🗄️ Learning database management and application development
-- 🏆 Hackathon participant and inter-college competition winner
-- 🌱 Focused on leadership, problem-solving, and continuous learning
+I work at the intersection of technology, product development, and innovation, with an interest in building practical digital solutions that address real-world challenges.
+
+As **Co-Founder & Director at Mira Future Tech Vision Pvt. Ltd.**, I focus on technology initiatives, software development, product ideas, and creating a foundation for scalable digital solutions.
+
+- **Technical focus:** Software engineering, web development, databases, and AI-driven applications.
+- **Product mindset:** Turning ideas into practical, user-focused solutions.
+- **Leadership focus:** Innovation, collaboration, execution, and continuous improvement.
+- **Engineering approach:** Learn by building, validate ideas, and improve through iteration.
 
 ---
 
-## 🛠️ Technologies & Tools
+## ◈ Technical Expertise
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java Python JavaScript TypeScript"/>
+
+### Web & Application Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,flutter,dart&theme=dark" alt="HTML CSS React Vite Flutter Dart"/>
+
+### Databases & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&theme=dark" alt="MySQL Git GitHub VS Code Linux"/>
 
 </div>
 
+<p align="center">
+  <i>Technical stack represents areas of interest and development; proficiency varies by technology.</i>
+</p>
+
 ---
 
-## 💼 Leadership & Innovation
+## ◈ Selected Projects & Innovation
 
-### 🏢 Mira Future Tech Vision Pvt. Ltd.
-**Co-Founder & Director**
-
-Interested in developing technology-driven solutions, encouraging innovation, and building practical digital products.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🩺 VaidyaMed-X
-AI-focused healthcare project exploring how artificial intelligence can support healthcare services and medical workflows.
+
+**AI & Healthcare Technology**
+
+Exploring how artificial intelligence can support healthcare workflows, medical decision support, and access to healthcare services.
+
+**Focus areas**
+- AI-assisted healthcare concepts
+- Practical healthcare technology
+- Responsible human-in-the-loop AI
+
+<a href="https://vaidyamedx.in/">Project Website ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Sarthi-X
+
+**AI & Application Development**
+
+An application initiative focused on combining software development with AI-oriented capabilities and practical user experiences.
+
+**Focus areas**
+- Application architecture
+- User interface development
+- AI integration concepts
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore repositories ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Engineering
+
+**Websites & Full-Stack Applications**
+
+Developing web projects while exploring frontend engineering, backend integration, and database-driven applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Technical Exploration
+
+**Continuous R&D**
+
+Exploring software engineering practices, emerging technologies, AI applications, and implementation approaches through hands-on projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## ◈ Leadership & Company
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-2F81F7?style=for-the-badge&logo=github" alt="Explore my repositories"/>
+<img src="https://img.shields.io/badge/ROLE-Co--Founder%20%26%20Director-123C69?style=for-the-badge" alt="Co-Founder and Director"/>
+
+### Mira Future Tech Vision Pvt. Ltd.
+
+**Building with technology. Leading through innovation.**
+
+Interested in developing useful digital products, exploring new technologies, and translating technical ideas into practical implementations.
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 </a>
 
 </div>
 
-- 🩺 **VaidyaMed-X** — AI-focused healthcare technology project.
-- 📱 **Sarthi-X** — Application project exploring AI and technology.
-- 🌐 **Web Development Projects** — Websites and applications built while learning full-stack development.
-
-> Add links to your actual project repositories when available.
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## 🐍 My Contribution Journey
+## ◈ My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 *Consistent learning. Meaningful projects. Continuous improvement.*
 
@@ -110,39 +180,50 @@ AI-focused healthcare project exploring how artificial intelligence can support 
 
 ---
 
-## 🎯 My Development Goals
-
-- [ ] Strengthen data structures and algorithms.
-- [ ] Build complete, well-documented applications.
-- [ ] Improve software engineering practices.
-- [ ] Develop and deploy full-stack projects.
-- [ ] Contribute to open-source projects.
-- [ ] Build useful AI-powered applications.
-
----
-
-## 🏆 Achievements & Learning
-
-- 🥇 Inter-college competition achievement
-- 🚀 Hackathon participation and collaborative project experience
-- 📜 IT-related certifications and ongoing technical learning
-- 💡 Continuous exploration of software development and emerging technologies
-
----
-
-## 🤝 Let's Connect
+## ◈ Engineering Principles
 
 <div align="center">
 
-I'm always interested in learning, collaborating, and building useful technology.
+| Principle | Approach |
+|:--|:--|
+| 🧠 Problem-solving | Understand the problem before choosing a solution |
+| 🏗️ Engineering | Build maintainable, practical applications |
+| 🔐 Reliability | Value security, validation, and quality |
+| 🤝 Collaboration | Learn, communicate, and build together |
+| 🚀 Innovation | Explore emerging technologies with purpose |
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+- [ ] Build and deploy complete web applications.
+- [ ] Strengthen software architecture and engineering practices.
+- [ ] Explore practical AI integration.
+- [ ] Improve database design and backend development.
+- [ ] Contribute to collaborative and open-source projects.
+
+---
+
+## ◈ Connect With Me
+
+<div align="center">
+
+**Open to meaningful technical collaborations, product discussions, and innovative projects.**
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammad-ayan-husain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vaidyamedx.in/">
+  <img src="https://img.shields.io/badge/VaidyaMed--X-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VaidyaMed-X"/>
 </a>
 
-### ⭐ Thanks for visiting my profile!
+### Building technology. Creating impact. Moving forward.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0B1020&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
 
 </div>
